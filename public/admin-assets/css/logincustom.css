@@ -1,0 +1,19 @@
+.modal-content{
+	width: 80%;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+	background-color: white;
+}
+.btn-link{
+	color:black;
+}
+.modal-heading h2{
+	padding-top: 5px;
+	color:black;
+}
+body {
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+	background-image: url(https://solutions.rent/wp-content/uploads/2019/03/events-2-1.jpg);
+}
